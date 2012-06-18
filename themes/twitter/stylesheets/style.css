@@ -44,11 +44,23 @@ html,body,div,p,a,span,* {
   padding-top:10px;
   border-top:3px solid #eee;
 }
+
+.latest-posts {
+	position: relative;
+}
+
 .post > h3.title span.date { 
   position:absolute;
   right:0;
   font-size:0.9em;
 }
+
+.all-posts-link a { 
+  position:absolute;
+  right:0;
+  font-size:0.7em;
+}
+
 .post > .more {
   margin:10px 0;
   text-align:left;
