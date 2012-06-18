@@ -1,6 +1,8 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
+}
+html,body,div,p,a,span,* {
   font-family: 'Open Sans', sans-serif;
 }
 .navbar {
