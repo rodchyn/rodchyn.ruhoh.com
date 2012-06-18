@@ -1,11 +1,11 @@
 title : Blog Title
 tagline: Blog Tagline
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Yura Rodchyn
+  email : rodchyn@gmail.com
+  github : rodchyn
+  twitter : rodchyn
+  feedburner : rodchyn
 
 navigation :
   - archive.html
