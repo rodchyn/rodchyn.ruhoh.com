@@ -41,7 +41,7 @@ It is still early days for Composer, and the project is being worked on at a hec
 
 ---
 title: Composer solves the PHP code-sharing problem
-date: '2012-06-18'
+date: '18 Jun 2012'
 description: PHP ecosystem
 categories: php
 tags: [php, composer]
